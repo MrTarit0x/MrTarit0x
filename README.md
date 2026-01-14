@@ -58,20 +58,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tarit001&show_icons=true&theme=dracula&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarit001&layout=compact&theme=dracula" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MrTarit0x&show_icons=true&theme=dracula&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrTarit0x&layout=compact&theme=dracula" />
 </div>
 
 <div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=tarit001&theme=dracula" />
+  <img height="150" src="https://streak-stats.demolab.com?user=MrTarit0x&theme=dracula" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=tarit001&theme=dracula&row=1&column=6" />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=MrTarit0x&theme=dracula&row=1&column=6" />
 </div>
 
 <div align="center">
-  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=tarit001&theme=react&area=true" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=MrTarit0x&theme=react&area=true" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/tarit001/count.svg" />
+<img src="https://profile-counter.glitch.me/MrTarit0x/count.svg" />
 
 </div>
 
