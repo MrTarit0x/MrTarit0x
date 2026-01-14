@@ -6,6 +6,8 @@
 <div align="center">
 
 ![TryHackMe Badge](assets/tryhackme.png)
+![GitHub followers](https://img.shields.io/github/followers/MrTarit0x?style=social)
+
 
 </div>
 
