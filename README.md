@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![TryHackMe Badge](assets/tryhackme.png) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MrTarit.png)](https://tryhackme.com/p/2079978)
+<img src="https://tryhackme-badges.s3.amazonaws.com/MrTarit.png" alt="Your Image Badge" />
 
 
 
