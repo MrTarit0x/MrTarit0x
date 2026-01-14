@@ -5,7 +5,8 @@
 
 <div align="center">
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MrTarit.png)
+![TryHackMe Badge](assets/tryhackme.png)
+
 
 </div>
 
