@@ -57,18 +57,18 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=MrTarit0x&show_icons=true&theme=dracula&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrTarit0x&layout=compact&theme=dracula" />
-</div>
 
-<div align="center">
+
+
   <img height="150" src="https://streak-stats.demolab.com?user=MrTarit0x&theme=dracula" />
-</div>
 
-<div align="center">
+
+
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=MrTarit0x&theme=dracula&row=1&column=6" />
-</div>
+
 
 <div align="center">
   <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=MrTarit0x&theme=react&area=true" />
@@ -89,12 +89,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/MrTarit0x/count.svg" />
-
-</div>
 
 ---
 
