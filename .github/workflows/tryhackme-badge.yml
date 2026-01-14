@@ -19,7 +19,7 @@ jobs:
       - name: Download latest TryHackMe badge
         run: |
           mkdir -p assets
-          curl -L https://tryhackme-badges.s3.amazonaws.com/MrTarit.png -o assets/tryhackme.png
+          curl -L https://tryhackme-badges.s3.amazonaws.com/MrTarit0x.png -o assets/tryhackme.png
 
       - name: Commit & push
         run: |
