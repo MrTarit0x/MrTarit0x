@@ -25,8 +25,12 @@ jobs:
       - name: Download TryHackMe badge
         run: |
           mkdir -p assets
-          BADGE_URL=$(curl -s "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978" \
-              | jq -r '.badge')
+          RESPONSE=$(curl -sf "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978")
+          if [[ $? -ne 0 ]]; then
+            echo "Failed to fetch badge API"
+            exit 1
+          fi
+          BADGE_URL=$(echo "$RESPONSE" | jq -r '.badge')
           curl -L "$BADGE_URL" -o assets/tryhackme.png
 
 
