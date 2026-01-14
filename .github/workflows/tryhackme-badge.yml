@@ -2,7 +2,7 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download latest TryHackMe badge
         run: |
