@@ -5,7 +5,7 @@
 
 <div align="center">
 
-
+![TryHackMe Badge](assets/tryhackme.png)
 
 
 </div>
