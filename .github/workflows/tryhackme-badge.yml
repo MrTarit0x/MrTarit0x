@@ -25,7 +25,10 @@ jobs:
       - name: Download TryHackMe badge
         run: |
           mkdir -p assets
-          curl -L https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978 -o assets/tryhackme.png
+          BADGE_URL=$(curl -s "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978" \
+              | jq -r '.badge')
+          curl -L "$BADGE_URL" -o assets/tryhackme.png
+
 
       # Commit & push only if there are changes
       - name: Commit and push
