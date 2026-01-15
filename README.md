@@ -37,7 +37,7 @@
 
 <h2>🐍 Contribution Activity</h2>
 
-<img src="https://raw.githubusercontent.com/tarit001/tarit001/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/MrTarit0x/MrTarit0x/output/snake.svg" alt="Snake animation"/>
 
 <hr/>
 
