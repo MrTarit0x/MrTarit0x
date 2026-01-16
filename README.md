@@ -43,6 +43,19 @@
 
 <h2>📊 GitHub Analytics</h2>
 
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MrTarit0x&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTarit0x&layout=compact&theme=dracula)
+
+![Streak](https://streak-stats.demolab.com?user=MrTarit0x&theme=dracula)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=MrTarit0x&theme=dracula&row=1&column=6)
+
+
+
+
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=MrTarit0x&show_icons=true&theme=dracula&count_private=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrTarit0x&layout=compact&theme=dracula"/>
 
