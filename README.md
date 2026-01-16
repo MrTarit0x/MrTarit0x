@@ -39,7 +39,7 @@
 
 <h2>📊 GitHub Analytics</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrTarit0x&theme=dracula&v=1001)
+<img src="https://streak-stats.demolab.com?user=MrTarit0x&theme=dracula&v=1001" height="160"/>
 
 <hr/>
 
