@@ -3,7 +3,9 @@
 <h1>Hi 👋, I'm Tarit</h1>
 <h3>Cybersecurity Enthusiast | Student | Open-Source Explorer</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MrTarit0x.png" alt="TryHackMe Badge" />
+#<img src="https://tryhackme-badges.s3.amazonaws.com/MrTarit0x.png" alt="TryHackMe Badge" />
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/yourusername)
+
 
 <hr/>
 
