@@ -47,15 +47,58 @@
 
 <hr/>
 
-<h2>🌐 Connect With Me 🌐</h2>
+<h2 align="center">🌐 Connect With Me 🌐</h2>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarit-mandal-124889236/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="42"
+      style="margin: 0 12px;"
+      title="LinkedIn"
+    />
+  </a>
+
+  <a href="https://discord.gg/JZgbM4AQ/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+      width="42"
+      style="margin: 0 12px;"
+      title="Discord"
+    />
+  </a>
+
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+      width="42"
+      style="margin: 0 12px;"
+      title="YouTube"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/MrTarit0x" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="42"
+      style="margin: 0 12px;"
+      title="Instagram"
+    />
+  </a>
+
+  <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/MrTarit0x" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tryhackme.svg"
+      width="42"
+      style="margin: 0 12px;"
+      title="TryHackMe"
+    />
+  </a>
+</p>
 
 <hr/>
+
 
 <blockquote>
 💬 <i>"Hello World — securing it one step at a time."</i>
