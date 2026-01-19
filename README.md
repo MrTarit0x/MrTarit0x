@@ -3,15 +3,7 @@
 <h1>Hi 👋, I'm Tarit</h1>
 <h3>Cybersecurity Enthusiast | Student | Open-Source Explorer</h3>
 
-[![TryHackMe](assets/tryhackme)]
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MrTarit0x.png" alt="TryHackMe Badge" />
-
-[![TryHackMe Badge](https://tryhackme.com/badge/2079978)](https://tryhackme.com/p/MrTarit0x)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/MrTarit0x)
-
+![TryHackMe](assets/tryhackme.png)
 
 <hr/>
 
