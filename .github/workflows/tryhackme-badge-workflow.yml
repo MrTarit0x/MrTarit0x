@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: MrTarit0x/tryhackme-badge-workflow@main
+      - uses: MrTarit0x/MrTarit0x@main
         with:
           # Replace with your tryhackme username
           username: "MrTarit0x"
