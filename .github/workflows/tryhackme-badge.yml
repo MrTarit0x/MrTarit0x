@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch TryHackMe Badge
-        uses: MrTarit0x/tryhackme-badge-workflow@main
+        uses: MrTarit0x/MrTarit0x@main
         with:
           username: "MrTarit0x"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Set this in your repository secrets
