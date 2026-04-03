@@ -5,9 +5,6 @@
 
 ![TryHackMe](assets/tryhackme.png)
 
-![TryHackMe Stats](https://raw.githubusercontent.com/MrTarit0x/MrTarit0x/master/assets/thm_propic.png)
-
-
 <hr/>
 
 <h2>👨‍💻 About Me 👨‍💻</h2>
