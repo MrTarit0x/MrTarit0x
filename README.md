@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hii 👋, I'm Tarit</h1>
+<h1>Hii 👋, I'm TARIT</h1>
 <h3>Cybersecurity Enthusiast | Student | Open-Source Explorer</h3>
 
 ![TryHackMe](assets/tryhackme.png)
