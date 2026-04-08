@@ -10,7 +10,7 @@
 <h2>👨‍💻 About Me 👨‍💻</h2>
 
 🎓 **Student** passionate about **Cybersecurity & Ethical Hacking & Netwok Engineering**  
-🔭 Exploring **security fundamentals, Linux, and low-level systems**  
+🔭 Exploring **Security fundamentals, Linux, and low-level systems**  
 🌱 Constantly learning **new tools & defensive techniques**  
 🤝 Open to **open-source & security projects**  
 💬 Ask me about **Cybersecurity, Linux, C/C++, Open-Source**  
@@ -101,7 +101,7 @@
 
 
 <blockquote>
-💬 <i>"Hello World — securing it one step at a time."</i>
+💬 <i>"Hello World — Securing it one step at a time."</i>
 </blockquote>
 
 <img height="200" src="https://media.giphy.com/media/c0NwRD0Vi5Cta/giphy.gif"/>
