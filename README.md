@@ -14,7 +14,7 @@
 🌱 Constantly learning **New tools & Defensive techniques**  
 🤝 Open to **open-source & security projects**  
 💬 Ask me about **Cybersecurity, Linux, C/C++, Open-Source**  
-⚡ Fun fact: I love **free & open-source alternatives**
+⚡ Fun fact: I love **Free & open-source alternatives**
 
 <hr/>
 
