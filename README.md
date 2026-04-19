@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 About Me 👨‍💻</h2>
 
-🎓 **Student** Passionate about **Cybersecurity & Ethical Hacking & Netwok Engineering**  
+🎓 **Student** Passionate About **Cybersecurity & Ethical Hacking & Netwok Engineering**  
 🔭 Exploring **Security Fundamentals, Linux, and low-level systems**  
 🌱 Constantly learning **New tools & Defensive techniques**  
 🤝 Open to **open-source & security projects**  
