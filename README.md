@@ -11,7 +11,7 @@
 
 🎓 **Student** Passionate About **Cybersecurity & Ethical Hacking & Netwok Engineering**  
 🔭 Exploring **Security Fundamentals, Linux, and low-level Systems**  
-🌱 Constantly learning **New tools & Defensive techniques**  
+🌱 Constantly learning **New tools & Defensive Techniques**  
 🤝 Open to **open-source & security projects**  
 💬 Ask me about **Cybersecurity, Linux, C/C++, Open-Source**  
 ⚡ Fun fact: I love **Free & open-source alternatives**
