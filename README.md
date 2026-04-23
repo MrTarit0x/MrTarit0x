@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hiii 👋, I'm TARIT.....</h1>
-<h3>Cybersecurity Enthusiast | tggygh Student | Open-Source Explorer</h3>
+<h3>Cybersecurity Enthusiast | Student | Open-Source Explorer</h3>
 
 ![TryHackMe](assets/tryhackme.png)
 
